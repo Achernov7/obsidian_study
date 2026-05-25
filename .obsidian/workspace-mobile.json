@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Аттестация/Джун/Сервер/# Основные директивы PHP - Подробное руководство.md",
-                "mode": "preview",
+                "file": "Аттестация/Джун/Сервер/# CRON.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "# Основные директивы PHP - Подробное руководство"
+              "title": "# CRON"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Аттестация/Джун/Сервер/# Основные директивы PHP - Подробное руководство.md",
+            "file": "Аттестация/Джун/Сервер/# CRON.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
