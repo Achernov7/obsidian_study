@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Аттестация/Джун/Сервер/Работа с файловой системой.md",
+                "file": "Аттестация/Джун/Сервер/Работа с процессами.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с файловой системой"
+              "title": "Работа с процессами"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Аттестация/Джун/Сервер/Работа с файловой системой.md",
+            "file": "Аттестация/Джун/Сервер/Работа с процессами.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
